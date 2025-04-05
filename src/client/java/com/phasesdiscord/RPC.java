@@ -208,6 +208,7 @@ public class RPC
                                     }
                                 }
                                 // maybe i will just disable this because i hate it
+                                // also hi
                                 // activity.setState("Phase's Minecraft Discord Rich Presence"); //maybe add an option to change this?
                             }
 
