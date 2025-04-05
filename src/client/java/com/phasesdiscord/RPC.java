@@ -207,7 +207,8 @@ public class RPC
                                         activity.assets().setSmallText(client.getSession().getUsername());
                                     }
                                 }
-                                activity.setState("Phase's Minecraft Discord Rich Presence"); //maybe add an option to change this?
+                                // maybe i will just disable this because i hate it
+                                // activity.setState("Phase's Minecraft Discord Rich Presence"); //maybe add an option to change this?
                             }
 
                             core.activityManager().updateActivity(activity);
